@@ -1,0 +1,5 @@
+Hello there,
+
+This is am example file to be uploaded to git repo.
+
+Cheers!
