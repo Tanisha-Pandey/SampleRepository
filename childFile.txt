@@ -1,0 +1,2 @@
+Hello,
+This is a child file created in the child branch
